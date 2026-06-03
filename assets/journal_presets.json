@@ -1,0 +1,33 @@
+{
+  "default": {
+    "single_column_width_in": 3.5,
+    "double_column_width_in": 7.0,
+    "dpi": 300,
+    "font_family": "DejaVu Sans",
+    "axis_label_size": 8,
+    "tick_label_size": 7,
+    "legend_size": 7,
+    "panel_label_size": 10
+  },
+  "nature_like": {
+    "single_column_width_in": 3.5,
+    "double_column_width_in": 7.2,
+    "dpi": 300,
+    "font_family": "Arial",
+    "axis_label_size": 8,
+    "tick_label_size": 7,
+    "legend_size": 7,
+    "panel_label_size": 10
+  },
+  "slide": {
+    "single_column_width_in": 7.0,
+    "double_column_width_in": 11.0,
+    "dpi": 150,
+    "font_family": "DejaVu Sans",
+    "axis_label_size": 16,
+    "tick_label_size": 13,
+    "legend_size": 13,
+    "panel_label_size": 18
+  }
+}
+
